@@ -1,0 +1,27 @@
+"
+Project:  Off Site
+
+Date: June 19 20XX
+",,,,,,,,,,
+#,Cause,Event,Impact,Risk Owner,Category,Probability Risk Rating,Impact Risk Rating,Risk Score,Trigger,Response
+1,Vendor,"Low Commitment
+Low Quality Work","Schedule Slips
+Budget Overages",Vendor Manager,Thereat,2,5,10,Schedule Slips,"Careful Source
+Selection"
+2,Work From Home,Productivity Reduced ,Daily Workload,HR,Thereat,2.5,3.5,8.75,Missed Deadlines ,Working from Home Training
+3,Construction Proximity,"Noise
+Work Disruptions",Lost Productivity ,QC,Thereat,3,3,9,Worker Complaints ,QC Partition Plans
+,Budget,No Constraints ,Adequate Resources ,Finance,Opportunity,5,-5,-25,None,Plane Resources carefully
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Total Risk Score,,,,,,,,2.75,,
+,,,,,,,,,,
+,,Probability Risk Rating,,Impact Risk Rating,,,,,,
+,,5: High,,5: High,,,,,,
+,,4: High to Moderate,,4: High to Moderate,,,,,,
+,,3: Moderate,,3: Moderate,,,,,,
+,,2: Moderate to Low,,2: Moderate to Low,,,,,,
+,,1: Low,,1: Low,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
