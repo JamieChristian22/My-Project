@@ -7,13 +7,9 @@ The company wants to estimate the relationship between demand and price and then
 3.	Is the model an accurate representation of reality?
 ## 📌 Key Insights
 a.	**  Sell at $530 for a profit of $1042,213
+
 b.	**Then the Price we would want to sell it at is now not $530 but $600
+
 c.	**Yes 
 
-🛠️ Tool Used • Excel – Data cleaning and formatting
-a. ** Sell at $530 for a profit of $1042,213 
-
-b. **Then the Price we would want to sell it at is now not $530 but $600 
-
-c. **Yes
-
+##🛠️ Tool Used • Excel – Data cleaning and formatting
