@@ -13,4 +13,5 @@ b.	**Then the Price we would want to sell it at is now not $530 but $600
 c.	**Yes 
 
 
-##🛠️ Tool Used • Excel – Data cleaning and formatting
+🛠️ Tool Used 
+Excel – Data cleaning and formatting
