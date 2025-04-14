@@ -12,6 +12,8 @@ c.	**Yes
 
 🛠️ Tool Used • Excel – Data cleaning and formatting
 a. ** Sell at $530 for a profit of $1042,213 
+
 b. **Then the Price we would want to sell it at is now not $530 but $600 
+
 c. **Yes
 
