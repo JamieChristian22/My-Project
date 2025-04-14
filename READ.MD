@@ -1,4 +1,4 @@
-📌 Project 1 – The 19th hole This project will use Excel trendlines to model the relationship between product demand and price.
+Project 1 – The 19th hole This project will use Excel trendlines to model the relationship between product demand and price.
 
 📌 Objectives 
 The company wants to estimate the relationship between demand and price and then use this estimated relationship to answer the following questions:
@@ -11,5 +11,7 @@ b.	**Then the Price we would want to sell it at is now not $530 but $600
 c.	**Yes 
 
 🛠️ Tool Used • Excel – Data cleaning and formatting
-a. ** Sell at $530 for a profit of $1042,213 b. **Then the Price we would want to sell it at is now not $530 but $600 c. **Yes
+a. ** Sell at $530 for a profit of $1042,213 
+b. **Then the Price we would want to sell it at is now not $530 but $600 
+c. **Yes
 
