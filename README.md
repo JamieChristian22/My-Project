@@ -8,7 +8,8 @@ Welcome to my professional portfolio showcasing hands-on work in Business Analys
 - Microsoft Excel  
 - Microsoft Word  
 - Tableau Public  
-- Lucidchart  
+- Lucidchart
+- Power BI
 
 ---
 
