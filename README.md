@@ -18,7 +18,7 @@ Welcome to my professional portfolio showcasing hands-on work in Business Analys
 |--------|-------------|
 | **Business Analyst Models and Diagrams** | Workflow maps, stakeholder matrices, and use case diagrams |
 | **Business Analytics Excel** | Excel-based analysis with charts, pivot tables, and business metrics |
-| **Business Intelligence** | Visualization files and dashboard outlines using Tableau |
+| **Business Intelligence** | Visualization files and dashboard outlines using Tableau and Power BI|
 | **Requirement Documentation Examples** | Sample BRDs and requirement templates following BABOK standards |
 | **Requirements Planning Artifacts** | Functional specs, RACI charts, and planning deliverables |
 | **index.html** | Homepage placeholder for GitHub Pages (optional)
