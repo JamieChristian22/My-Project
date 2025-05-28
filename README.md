@@ -58,7 +58,14 @@ A real-world scenario using SQL to:
 
 ---
 
-## 📊 Highlight Project – Power BI Dashboard
+## 📊 Highlight Project – Power BI Dashboard: HR Analytics
+
+![Power BI Badge](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-yellow?logo=powerbi)
+
+**📈 HR Analytics Dashboard – Employee Attrition**  
+Interactive dashboard built using Power BI to visualize:
+- Attrition trends by department and tenure  
+- Filtering by gender, job role, and satisfaction level  
 
 **📈 HR Analytics Dashboard – Employee Attrition (Built with Power BI)**  
 Interactive dashboard built using Power BI to visualize:
