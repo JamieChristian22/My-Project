@@ -1,48 +1,51 @@
 # 📁 Business Analyst Portfolio – MyProjects
 
-Welcome to my professional portfolio showcasing hands-on work in Business Analysis and Systems Analysis. This repository contains organized folders of case studies, documentation samples, and visual deliverables created using Excel, Word, Lucidchart, and Tableau.
+Welcome to my professional portfolio showcasing hands-on work in Business Analysis and Systems Analysis. This repository contains organized folders of case studies, documentation samples, and visual deliverables created using Excel, Word, Lucidchart, Power BI, and SQL.
 
 ---
 
 ## 🧰 Tools Used
+
 - Microsoft Excel  
 - Microsoft Word  
 - Tableau Public  
-- Lucidchart
-- Power BI
+- Lucidchart  
+- Power BI  
+- SQL (MySQL, PostgreSQL)
 
 ---
 
-## 📂 Repository Structure
+## 🗂 Repository Structure
 
-| Folder | Description |
-|--------|-------------|
-| **Business Analyst Models and Diagrams** | Workflow maps, stakeholder matrices, and use case diagrams |
-| **Business Analytics Excel** | Excel-based analysis with charts, pivot tables, and business metrics |
-| **Business Intelligence** | Visualization files and dashboard outlines using Tableau and Power BI|
-| **Requirement Documentation Examples** | Sample BRDs and requirement templates following BABOK standards |
-| **Requirements Planning Artifacts** | Functional specs, RACI charts, and planning deliverables |
-| **index.html** | Homepage placeholder for GitHub Pages (optional)
-
----
-
-## 🔍 Sample Artifacts
-- Business Requirements Documents (BRDs)
-- Stakeholder Maps and RACI Charts
-- Visual Dashboards (screenshots or Tableau links)
-- Process Models (as-is/to-be)
-- Excel KPIs and performance summaries
+| Folder                                   | Description                                                                 |
+|------------------------------------------|-----------------------------------------------------------------------------|
+| **Business Analyst Models and Diagrams** | Workflow maps, stakeholder matrices, and use case diagrams                 |
+| **Business Analytics Excel**             | Excel-based analysis with charts, pivot tables, and business metrics       |
+| **Business Intelligence**                | Visualization files and dashboards built using Tableau and Power BI        |
+| **Requirement Documentation Examples**   | Sample BRDs, use cases, and requirement elicitation documents              |
+| **Requirements Planning Artifacts**      | Templates for stakeholder analysis, RACI matrices, and planning tools      |
+| **SQL_Customer_Retention_Case_Study**    | SQL-based business case exploring sales trends, retention, and churn risk  |
 
 ---
 
-## 📌 Purpose
-This repository demonstrates my ability to:
-- Gather and document business requirements
-- Create clear visual representations of business processes
-- Use Excel and Tableau to support data-driven insights
-- Align with industry-standard practices (e.g., BABOK)
+## 🧠 Highlight Project – SQL Case Study
+
+**📊 SQL Business Analyst Case Study – Customer Retention & Sales Trends**  
+A real-world scenario using SQL to:
+- Identify repeat customers and churn patterns  
+- Analyze average order value and sales by product  
+- Deliver insights using queries, business KPIs, and recommendations  
+
+📁 [View the Project Folder](./SQL_Customer_Retention_Case_Study/README.md)
 
 ---
 
-## 📬 Connect
-For full portfolio access or collaboration, connect with me on [LinkedIn](www.linkedin.com/in/jamie-christian-ii-6b7a01232).
+## 👨‍💻 About Me
+
+**Jamie Christian II**  
+[LinkedIn](https://linkedin.com/in/jamie-christian-6b7a01232)  
+[GitHub](https://github.com/JamieChristian22)
+
+This portfolio is part of my ongoing journey as an **Entry-Level Business Analyst** passionate about process improvement, data analytics, and translating business needs into scalable insights.
+
+
