@@ -89,7 +89,7 @@ A Tableau dashboard analyzing Netflix’s global content strategy:
 - Interactive filters for genre, rating, and release year  
 
 🔗 [View on Tableau Public][(https://public.tableau.com/app/profile/jamiechristian22)  ](https://public.tableau.com/app/profile/jamie.christian/vizzes)
-📷 ![Netflix Dashboard Preview][(./Business%20Intelligence/Netflix_Dashboard_Tableau_Preview.png)](https://github.com/JamieChristian22/MyProjects/blob/main/Business%20Intelligence/Netflix.pdf)
+📷 ![Netflix Dashboard Preview][[(./Business%20Intelligence/Netflix_Dashboard_Tableau_Preview.png)](https://github.com/JamieChristian22/MyProjects/blob/main/Business%20Intelligence/Netflix.png)](https://github.com/JamieChristian22/MyProjects/blob/main/Business%20Intelligence/Netflix.pdf)
 
 ---
 
