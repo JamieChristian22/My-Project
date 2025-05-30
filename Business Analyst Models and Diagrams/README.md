@@ -19,8 +19,9 @@ This folder contains visual documentation assets used in business analysis proje
 
 ## 🧰 Tools Used
 - Lucidchart  
-- Microsoft Visio  
-- BABOK aligned structure  
+- Microsoft Visio
+- Microsoft Word
+- BABOK aligned structure 
 
 ## ✅ Purpose
 
